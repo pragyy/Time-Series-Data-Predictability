@@ -2,7 +2,7 @@
 
 In this project the air quality dataset of Delhi is analyzed.
 
-The dataset used is a time-series data. The dataset under consideration consists of four main pollutants viz, NO2, SO2, SPM and RSPM using which the Air Quality Index is calculated. It contains daily concentrations of the aforementioned pollutants from 2008-2010.
+The dataset used is a time-series data. The dataset under consideration consists of four main pollutants viz; NO2, SO2, SPM and RSPM using which the Air Quality Index is calculated. It contains daily concentrations of the aforementioned pollutants from 2008-2010.
 
 Various exponents and laws were used to determine the smoothness of the given dataset.
 
